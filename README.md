@@ -1,6 +1,6 @@
 # CodigoMorse
 
-Algoritmo que traduz o que for escrito em código morse de acordo com o alfabeto latino.
+Algoritmo em Java que traduz o que for escrito em código morse de acordo com o alfabeto latino.
 
 ![image](https://user-images.githubusercontent.com/103225393/173916797-fbfea54e-33fe-4e0a-971e-e90b9ee7244b.png)
 
